@@ -1,0 +1,13 @@
+.hammer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30vh;
+    transition: all 1s;
+}
+
+body {
+    text-align: center;
+    overflow: hidden;
+}
+
